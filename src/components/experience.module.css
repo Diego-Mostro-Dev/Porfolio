@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.containername {
+    margin-bottom: 4px;
+}
+
+.name {
+    font-weight: 500;
+    color: #111;
+}
+
+.name:hover {
+    text-decoration: underline;
+}
+
+.titlePosition {
+    font-weight: 500;
+    color: #111;
+    margin-bottom: 4px;
+}
+
+.position {
+    font-weight: 400;
+    color: #222;
+    margin-bottom: 4px;
+}
+
+.summary {
+    margin-bottom: 1rem;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 4px;
+}
+
+.time {
+    font-size: 0.85rem;
+    color: #555;
+}

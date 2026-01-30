@@ -1,0 +1,66 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 32px;
+}
+
+.project {
+    border-radius: 6px;
+    border: 1px solid #f2f2f2;
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    height: 100%;
+}
+
+.name {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.active {
+    color: #29bd31;
+    cursor: pointer;
+}
+
+.inactive {
+    color: #3f3636;
+    opacity: 30%;
+    cursor: pointer;
+}
+
+.description {
+    font-size: .75rem;
+    line-height: 1.2;
+    margin-bottom: 8px;
+}
+
+.header {
+    flex: 1;
+}
+
+.header a {
+    color: #111;
+}
+
+.header a:hover {
+    text-decoration: underline;
+}
+
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+}
+
+.footer span {
+    border-radius: 6px;
+    background: #eee;
+    color: #444;
+    font-size: .6rem;
+    font-weight: 500;
+    padding: .2rem .6rem;
+}

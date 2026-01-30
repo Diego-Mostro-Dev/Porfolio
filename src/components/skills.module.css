@@ -1,0 +1,23 @@
+.container {
+    display: inline-flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.container li {
+    border-radius: 6px;
+    background: #eee;
+    color: #000;
+    font-size: .8rem;
+    font-weight: 500;
+    padding: .2rem .6rem;
+}
+
+@media print {
+    .container li {
+        background: #eee !important;
+        color: #000 !important;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+}

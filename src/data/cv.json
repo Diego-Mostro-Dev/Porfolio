@@ -1,0 +1,304 @@
+{
+    "basics": {
+        "name": "Diego Alejandro Salvado",
+        "label": "Desarrollador Full Stack con +3 años de experiencia",
+        "image": "https://avatars.githubusercontent.com/diego-mostro-dev",
+        "email": "diegosalvadodev@gmail.com",
+        "phone": "(341) 6164792",
+        "url": "https://diegosalvadodev.com.ar",
+        "summary": "Tengo más de 3 años de experiencia en React, JavaScript, Python y Django, orientado al desarrollo de aplicaciones web completas desde la interfaz hasta la lógica backend.Trabajo en proyectos freelance reales, participando en todo el ciclo de desarrollo: análisis de requerimientos, diseño de arquitectura, implementación frontend y backend, integración con APIs, optimización de performance y despliegue en producción. Me destaco por la autonomía, la comunicación con clientes y la capacidad de transformar necesidades funcionales en soluciones técnicas claras y escalables.",
+        "location": {
+            "address": "",
+            "postalCode": "2000",
+            "city": "Rosario",
+            "countryCode": "AR",
+            "region": "Santa Fe, Argentina"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "diegosalvadodev",
+                "url": "https://linkedin.com/in/diegosalvadodev"
+            },
+            {
+                "network": "GitHub",
+                "username": "Diego-Mostro-Dev",
+                "url": "https://github.com/Diego-Mostro-Dev"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Cliente: Magnolia Casting",
+            "position": "Desarrollador Full Stack Freelance",
+            "url": "https://magnolia-landing.netlify.app/",
+            "startDate": "2025-02-01",
+            "endDate": "2025-07-01",
+            "summary": "Desarrollo completo del sitio para Magnolia Casting en colaboración con diseñadora UX/UI y responsable de contenidos. Implementación fiel del diseño proporcionado (arquitectura Bento Grid), aplicando buenas prácticas de maquetación y organización visual. Implementación de sistema de cambio de idioma y coordinación para ajustes visuales y de copy según requerimientos del cliente. Integración de formulario de contacto, optimización de rendimiento y gestión del despliegue en producción",
+            "highlights": [
+                "Tecnologías: React, CSS, HTML"
+            ]
+        },
+        {
+            "name": "Cliente: Kreta",
+            "position": "Desarrollador Full Stack Freelance",
+            "url": "https://kreta.ar/",
+            "startDate": "2024-04-01",
+            "endDate": "2025-07-01",
+            "summary": "Desarrollo del sitio para Kreta en colaboración con una responsable de gestión de contenidos. Implementación del diseño provisto por la diseñadora del cliente, con una interfaz completamente responsive y organización del proyecto mediante diagrama de componentes. Desarrollo de formularios reutilizables e integración con WhatsApp, Google Analytics y LeafletJS. Aplicación de estrategias de optimización de carga para un sitio con alto contenido gráfico y despliegue en producción orientado a captación de clientes.",
+            "highlights": [
+                "Tecnologías: React, CSS, HTML, LeafletJS"
+            ]
+        },
+        {
+            "name": "Cliente: Gisa S.A.",
+            "position": "Desarrollador Full Stack Freelance",
+            "url": "https://gisaweb.netlify.app/",
+            "startDate": "2023-02-01",
+            "endDate": "2023-03-01",
+            "summary": "Desarrollo de la web de Gisa S.A. en colaboración con una responsable de contenidos. Implementación completa del sitio utilizando React y CSS. - Adaptación del diseño proporcionado por el cliente a formato responsive. - Implementación de secciones principales del sitio institucional. - Integración con Google Forms para recepción de postulantes. - Colaboración en la definición de la arquitectura de la información. - Puesta en producción del sitio.",
+            "highlights": [
+                "Tecnologías: React, CSS, HTML"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Universidad Tecnológica Nacional - Facultad Regional San Francisco",
+            "startDate": "2022-02-01",
+            "endDate": "2022-02-01",
+            "type": "programming",
+            "courses": [
+                "Python desde Cero"
+            ]
+        },
+        {
+            "institution": "Udemy",
+            "startDate": "2022-12-01",
+            "endDate": "2022-12-01",
+            "type": "programming",
+            "courses": [
+                "Master en Python"
+            ]
+        },
+        {
+            "institution": "Lumetrio",
+            "startDate": "2022-12-01",
+            "endDate": "2022-12-01",
+            "type": "programming",
+            "courses": [
+                "Introducción a la Programación , Bases de Datos y SQL , Backend con Django"
+            ]
+        },
+        {
+            "institution": "Escuela Codea Rock",
+            "startDate": "2023-09-01",
+            "endDate": "2023-12-01",
+            "type": "programming",
+            "courses": [
+                "Git y GitHub , ReactJS , Chat GPT aplicado al desarrollo web"
+            ]
+        },
+        {
+            "institution": "CILSA",
+            "startDate": "2025-10-01",
+            "endDate": "2025-10-01",
+            "type": "programming",
+            "courses": [
+                "Java"
+            ]
+        },
+        {
+            "institution": "Academia Midudev",
+            "startDate": "2025-12-01",
+            "endDate": "2026-01-01",
+            "type": "programming",
+            "courses": [
+                "CSS Grid , Animaciones en CSS , GSAP desde cero , CSS desde cero"
+            ]
+        },
+        {
+            "institution": "Universidad Nacional de Rosario",
+            "startDate": "2010-03-01",
+            "endDate": "2010-11-01",
+            "type": "university",
+            "courses": [
+                "Licenciatura en Biotecnología"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "level": "Junior avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "CSS",
+            "level": "Junior avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Responsive Design"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "level": "Junior avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "React"
+            ]
+        },
+        {
+            "name": "Python",
+            "level": "Junior intermedio",
+            "keywords": [
+                "Desarrollo Backend",
+                "Django"
+            ]
+        },
+        {
+            "name": "Tailwind",
+            "level": "Básico",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "CSS Framework",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "level": "Básico",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "JavaScript Superset"
+            ]
+        },
+        {
+            "name": "Node",
+            "level": "Básico",
+            "keywords": [
+                "Desarrollo Web",
+                "Backend",
+                "JavaScript",
+                "Servidor"
+            ]
+        },
+        {
+            "name": "Git",
+            "level": "Básico",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente"
+            ]
+        },
+        {
+            "name": "GitHub",
+            "level": "Básico",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente",
+                "Git"
+            ]
+        },
+        {
+            "name": "React",
+            "level": "Junior intermedio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "Django",
+            "level": "Junior avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Backend",
+                "Python",
+                "Framework"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "fluency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "fluency": "Básico"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Futuro proyecto",
+            "id": 0,
+            "isActive": true,
+            "description": "Un proyecto nuevo que voy a hacer",
+            "highlights": [
+                "Ya veremos como sale",
+                "Como sale",
+                "HTML",
+                "CSS",
+                "Como sale",
+                "HTML",
+                "CSS"
+            ],
+            "url": "https://google.com/"
+        },
+        {
+            "name": "Futuro proyecto",
+            "id": 1,
+            "isActive": false,
+            "description": "Un proyecto nuevo que voy a hacer",
+            "highlights": [
+                "Ya veremos como sale"
+            ],
+            "url": "https://google.com/"
+        },
+        {
+            "name": "Futuro proyecto",
+            "id": 2,
+            "isActive": true,
+            "description": "Un proyecto nuevo que voy a hacer",
+            "highlights": [
+                "Ya veremos como sale"
+            ],
+            "url": "https://google.com/"
+        },
+        {
+            "name": "Futuro proyecto",
+            "id": 3,
+            "isActive": true,
+            "description": "Un proyecto nuevo que voy a hacer",
+            "highlights": [
+                "Ya veremos como sale"
+            ],
+            "url": "https://google.com/"
+        },
+        {
+            "name": "Futuro proyecto",
+            "id": 4,
+            "isActive": true,
+            "description": "Un proyecto nuevo que voy a hacer",
+            "highlights": [
+                "Ya veremos como sale"
+            ],
+            "url": "https://google.com/"
+        }
+    ]
+}
