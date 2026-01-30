@@ -10,7 +10,7 @@ export default function Experience() {
   return (
     <Section title="Experiencia profesional">
       <h3 className={styles.titlePosition}>Desarrollador Web Freelance</h3>
-      <h5 className={styles.time}>2023 – Actualidad</h5>
+      <h4 className={styles.time}>2023 – Actualidad</h4>
       <p className={styles.summary}>
         Desarrollo de sitios y aplicaciones web para clientes
         reales.Implementación de interfaces en React, integración de formularios
