@@ -20,11 +20,8 @@ export default function Projects() {
                     >
                       {name}
                     </a>
-                    {/* ME quede en el minuto 1:12:45 */}
                     <span
-                      title={
-                        isActive ? 'Activo' : 'Inactivo'
-                      } /* hacer PR de midu en este proyecto */
+                      title={isActive ? 'Activo' : 'Inactivo'}
                       className={isActive ? styles.active : styles.inactive}
                     >
                       &bull;

@@ -245,60 +245,25 @@
   ],
   "projects": [
     {
-      "name": "Futuro proyecto",
+      "name": "Django REST Products API",
       "id": 0,
       "isActive": true,
-      "description": "Un proyecto nuevo que voy a hacer",
+      "description": "Este proyecto demuestra una arquitectura de backend con autenticación, permisos, filtrado y tests automatizados. Diseñado como proyecto de portfolio para mostrar habilidades de desarrollo backend.",
       "highlights": [
-        "Ya veremos como sale",
-        "Como sale",
-        "HTML",
-        "CSS",
-        "Como sale",
-        "HTML",
-        "CSS"
+        "JWT Authentication",
+        "User registration",
+        "Product CRUD",
+        "Object-level permissions (users only manage their own products)",
+        "Filtering",
+        "Search",
+        "Ordering",
+        "Pagination",
+        "Automated API tests",
+        "Deployment",
+        "PostgreSQL database",
+        "Docker Compose"
       ],
-      "url": "https://google.com/"
-    },
-    {
-      "name": "Futuro proyecto",
-      "id": 1,
-      "isActive": false,
-      "description": "Un proyecto nuevo que voy a hacer",
-      "highlights": [
-        "Ya veremos como sale"
-      ],
-      "url": "https://google.com/"
-    },
-    {
-      "name": "Futuro proyecto",
-      "id": 2,
-      "isActive": true,
-      "description": "Un proyecto nuevo que voy a hacer",
-      "highlights": [
-        "Ya veremos como sale"
-      ],
-      "url": "https://google.com/"
-    },
-    {
-      "name": "Futuro proyecto",
-      "id": 3,
-      "isActive": true,
-      "description": "Un proyecto nuevo que voy a hacer",
-      "highlights": [
-        "Ya veremos como sale"
-      ],
-      "url": "https://google.com/"
-    },
-    {
-      "name": "Futuro proyecto",
-      "id": 4,
-      "isActive": true,
-      "description": "Un proyecto nuevo que voy a hacer",
-      "highlights": [
-        "Ya veremos como sale"
-      ],
-      "url": "https://google.com/"
+      "url": "https://django-rest-products-api.onrender.com/api/docs/"
     }
   ]
 }
