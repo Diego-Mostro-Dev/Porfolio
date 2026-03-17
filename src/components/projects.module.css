@@ -64,3 +64,27 @@
   font-weight: 500;
   padding: .2rem .6rem;
 }
+
+.highlights {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.links {
+  display: flex;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.links a {
+  font-size: 0.85rem;
+  text-decoration: none;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+}
+
+.links a:hover {
+  opacity: 1;
+  text-decoration: underline;
+}

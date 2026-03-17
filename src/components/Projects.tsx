@@ -7,7 +7,7 @@ export default function Projects() {
     <Section title="Proyectos">
       <ul className={styles.container}>
         {projects.map(
-          ({ name, isActive, description, highlights, url, id }) => (
+          ({ name, isActive, description, highlights, url, repo, npm, id }) => (
             <li className={styles.item} key={id}>
               <article className={styles.project}>
                 <header className={styles.header}>
@@ -16,7 +16,7 @@ export default function Projects() {
                       target="_blank"
                       rel="noopener noreferrer"
                       href={url}
-                      title={`Ver el proyecto ${name}`}
+                      title={`Ver demo de ${name}`}
                     >
                       {name}
                     </a>
@@ -30,9 +30,31 @@ export default function Projects() {
                   <p className={styles.description}>{description}</p>
                 </header>
                 <footer className={styles.footer}>
-                  {highlights.map((highlight, index) => (
-                    <span key={index}>{highlight}</span>
-                  ))}
+                  <div className={styles.highlights}>
+                    {highlights.map((highlight, index) => (
+                      <span key={index}>{highlight}</span>
+                    ))}
+                  </div>
+
+                  <div className={styles.links}>
+                    {url && (
+                      <a href={url} target="_blank" rel="noopener noreferrer">
+                        🔗 Demo
+                      </a>
+                    )}
+
+                    {repo && (
+                      <a href={repo} target="_blank" rel="noopener noreferrer">
+                        💻 Code
+                      </a>
+                    )}
+
+                    {npm && (
+                      <a href={npm} target="_blank" rel="noopener noreferrer">
+                        📦 NPM
+                      </a>
+                    )}
+                  </div>
                 </footer>
               </article>
             </li>
