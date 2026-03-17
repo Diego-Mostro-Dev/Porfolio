@@ -264,6 +264,26 @@
         "Docker Compose"
       ],
       "url": "https://django-rest-products-api.onrender.com/api/docs/"
+    },
+    {
+      "name": "Handed UI",
+      "id": 0,
+      "isActive": true,
+      "description": "Handed UI es una librería de componentes para React que adapta automáticamente la posición de elementos interactivos según la mano dominante del usuario (diestro o zurdo). Está orientada a mejorar la ergonomía, accesibilidad y experiencia de uso en interfaces móviles.",
+      "highlights": [
+        "Layout adaptativo (izquierda / derecha)",
+        "Context API global",
+        "Hook useHand",
+        "HandToggle",
+        "FAB adaptativo",
+        "Optimizado para mobile UX",
+        "Integración simple en React",
+        "Estilos con data attributes",
+        "Compatible con Tailwind y CSS-in-JS",
+        "Publicado en npm",
+        "Demo online"
+      ],
+      "url": "https://handed-ui-demo.netlify.app/"
     }
   ]
 }
